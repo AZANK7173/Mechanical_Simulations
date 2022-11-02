@@ -5,4 +5,4 @@ Repository of mechanical simulations developted for Mechatronics Engineering Deg
 
 * `vigas`: matlab code used to determine the vibration modes from a framewoerk of beams using the Finite Element Method
 
-* See also termical simulations in [this repo](https://github.com/arielguerreiro/PMR3401_EP1) 
+* See also termical simulations [here](https://github.com/arielguerreiro/PMR3401_EP1) 

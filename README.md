@@ -1,4 +1,4 @@
-# simulacoes_mecanicas
+# Simulações Mecanicas / Mechanical Simulations
 Repository of mechanical simulations developted for Mechatronics Engineering Degree. 
 
 * `massa_mola`: analysis of a spring damper system using the Gauss Method for determining this.
